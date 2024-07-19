@@ -97,7 +97,7 @@
 </p>
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohit2004metha&show_icons=true&locale=en&layout=compact&exclude_repo=repo1,repo2,repo3,repo4,repo5,repo6,repo7,repo8,repo9" alt="rohit2004metha" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohit2004metha&show_icons=true&locale=en&layout=compact&exclude_repo=repo1,repo2,repo3,repo4,repo5,repo6,repo7,repo8" alt="rohit2004metha" />
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohit2004metha&show_icons=true&locale=en" alt="rohit2004metha" /></p>
